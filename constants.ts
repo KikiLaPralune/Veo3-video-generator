@@ -1,4 +1,3 @@
-
 import { AspectRatio } from './types';
 
 export const ASPECT_RATIO_OPTIONS: { value: AspectRatio; label: string }[] = [
