@@ -1,0 +1,5 @@
+{
+  "name": "Générateur Vidéo VEO",
+  "description": "Une application pour générer des vidéos illimitées et gratuites à partir de prompts textuels en utilisant le modèle VEO de Google. Les utilisateurs peuvent choisir le format et la durée de leurs créations.",
+  "requestFramePermissions": []
+}
